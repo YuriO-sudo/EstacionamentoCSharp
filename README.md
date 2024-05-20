@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# EstacionamentoCSharp
+=======
+>>>>>>> 2760de81a36f85c60f8be4f0dffe17f098d836d2
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
@@ -36,3 +42,7 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+<<<<<<< HEAD
+=======
+>>>>>>> af63184 (Commit modelo desafio de projeto)
+>>>>>>> 2760de81a36f85c60f8be4f0dffe17f098d836d2
