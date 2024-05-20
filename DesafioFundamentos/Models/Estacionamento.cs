@@ -13,6 +13,7 @@ namespace DesafioFundamentos.Models
             this.precoPorHora = precoPorHora;
         }
 
+// implementação do método AdicionarVeiculo
         public void AdicionarVeiculo()
         {
             Console.WriteLine("Digite a placa do veículo para estacionar:");
@@ -22,7 +23,7 @@ namespace DesafioFundamentos.Models
             veiculos.Add(placa);
 
         }
-
+// implementação do método RemoverVeiculo
         public void RemoverVeiculo()
         {
         Console.WriteLine("Digite a placa do veículo para remover:");
@@ -52,7 +53,7 @@ namespace DesafioFundamentos.Models
                 Console.WriteLine("Desculpe, esse veículo não está estacionado aqui. Confira se digitou a placa corretamente");
             }
         }
-
+// implementação do método ListarVeiculo
         public void ListarVeiculos()
         {
             if (veiculos.Any())
